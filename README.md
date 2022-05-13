@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/ezedev/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ezequiel%20Luj%C3%A1n-blue?style=flat-square&logo=linkedin">
   </a>
-
-  ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=ezelujan.ezelujan)
+  <p align="center">
+    ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=ezelujan.ezelujan)
+  </p>
 </p>
