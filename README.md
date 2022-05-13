@@ -1,6 +1,6 @@
 <h3 align="center">Welcome Devs. 👋</h3>
 
-<table>
+<table align="center">
   <tr>
     <td valign="center">🎓 I am a technology student.</td>
   </tr>
@@ -15,7 +15,7 @@
 [![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezelujan&show_icons=true)](https://github.com/ezelujan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezelujan&show_icons=true)
 
-<h3 align="center"> 🤝🏻 Contact me </h3>
+<h3 align="center"> 🤝🏻 Contact me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ezedev/">
