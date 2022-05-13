@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">Welcome Devs. 👋</h3>
 
-<!--
-**ezelujan/ezelujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="center">🎓 I am a technology student**.</td>
+  </tr>
+  <tr>
+    <td valign="center">🌱 I am constantly learning new things.</td>
+  </tr>
+  <tr>
+    <td valign="center">✨ I love to create different types of **contents**.</td>
+  </tr>
+</table>
