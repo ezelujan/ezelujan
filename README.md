@@ -12,10 +12,8 @@
   </tr>
 </table>
 
-<div align="center">
-  [![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezelujan&show_icons=true)](https://github.com/ezelujan)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezelujan&show_icons=true)
-</div>
+[![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezelujan&show_icons=true)](https://github.com/ezelujan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezelujan&show_icons=true)
 
 <h3 align="center"> 🤝🏻 Contact me</h3>
 
