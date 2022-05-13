@@ -2,12 +2,25 @@
 
 <table>
   <tr>
-    <td valign="center">🎓 I am a technology student**.</td>
+    <td valign="center">🎓 I am a technology student.</td>
   </tr>
   <tr>
     <td valign="center">🌱 I am constantly learning new things.</td>
   </tr>
   <tr>
-    <td valign="center">✨ I love to create different types of **contents**.</td>
+    <td valign="center">✨ I love to create different types of contents.</td>
   </tr>
 </table>
+
+[![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezelujan&show_icons=true)](https://github.com/ezelujan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezelujan&show_icons=true)
+
+<h3 align="center"> 🤝🏻 Contact me </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezedev/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ezequiel%20Luj%C3%A1n-blue?style=flat-square&logo=linkedin">
+  </a>
+
+  ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=ezelujan.ezelujan)
+</p>
