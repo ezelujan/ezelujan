@@ -8,7 +8,7 @@
     <td valign="center">🌱 I am constantly learning new things.</td>
   </tr>
   <tr>
-    <td valign="center">✨ I love to create different types of contents.</td>
+    <td valign="center">✨ I always have a smile, it is the key to everything.</td>
   </tr>
 </table>
 
