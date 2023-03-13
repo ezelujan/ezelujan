@@ -14,7 +14,7 @@
 
 <hr />
 
-[![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezelujan&show_icons=true)](https://github.com/ezelujan)
+[![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezelujan&show_icons=true&theme=radical)](https://github.com/ezelujan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezelujan&&show_icons=true)](https://github.com/ezelujan)
 
 <h3 align="center"> 🤝🏻 Contact me</h3>
